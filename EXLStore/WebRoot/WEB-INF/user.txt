@@ -1,0 +1,9 @@
+/EasyMall/order_add.jsp
+/EasyMall/order_list.jsp
+/EasyMall/pay.jsp
+/EasyMall/confirm.jsp
+/EasyMall/servlet/OrderAddServlet
+/EasyMall/servlet/OrderListServlet
+/EasyMall/servlet/OrderDeleteServlet
+/EasyMall/servlet/PayServlet
+/EasyMall/servlet/CallBackServlet

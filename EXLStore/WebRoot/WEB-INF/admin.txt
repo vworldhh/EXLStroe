@@ -1,0 +1,9 @@
+/EasyMall/backend/_left.jsp
+/EasyMall/backend/_right.jsp
+/EasyMall/backend/_top.jsp
+/EasyMall/backend/manage.jsp
+/EasyMall/backend/prod_list.jsp
+/EasyMall/backend/sale_list.jsp
+/EasyMall/servlet/SaleListServlet
+/EasyMall/servlet/DownLoadServlet
+/EasyMall/servlet/BackProdListServlet
